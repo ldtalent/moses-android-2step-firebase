@@ -14,16 +14,22 @@ A few resources to get you started if this is your first Firebase project:
 
 For help getting started with Firebase, view the [online documentation](https://flutter.dev/docs)
 
-##Project Requirements
+ ##Project Requirements
 
--Android Studio.
--Android Application
--Internet connectivity
+1.Android Studio.
 
-##How to setup and run the application
+2.Android Application.
+
+3.Internet connectivity.
+
+ ##How to setup and run the application
+ 
 .Clone the repo on your local machine
-.Copy the project files into your android studio  project directory
+
+.Copy the project files into your android studio  project directory.
+
 .Open the project.
+
 .Run on android phone or android emulator
 
 
