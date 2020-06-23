@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "583141614979",
+    "firebase_url": "https://twostepauthentication-a671e.firebaseio.com",
+    "project_id": "twostepauthentication-a671e",
+    "storage_bucket": "twostepauthentication-a671e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:583141614979:android:c119f04a5af254058e02b6",
+        "android_client_info": {
+          "package_name": "com.example.twostepauthentication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "583141614979-lttdmb0s2ukegkf7gnd641eqsrrvd2ad.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.twostepauthentication",
+            "certificate_hash": "be629e585afbff7887b743c1f69513fada0c2e78"
+          }
+        },
+        {
+          "client_id": "583141614979-ntcmrnarp9et23em24g80ncmh5jdml1i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAp8s317jcOTrTc4fUnIClfJslvFFRknDw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "583141614979-ntcmrnarp9et23em24g80ncmh5jdml1i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
